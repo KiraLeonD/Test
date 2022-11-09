@@ -1,0 +1,25 @@
+body
+{
+    background-image: url('bg.png');
+}
+
+.stdyin
+{
+    position: relative;
+    left: 650px;
+    bottom: 10px;
+}
+
+.rdin
+{
+    position: relative;
+    left: 650px;
+    bottom: 10px;
+}
+
+.sng
+{
+    position: relative;
+    left: 650px;
+    bottom: 10px;
+}

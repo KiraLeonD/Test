@@ -1,0 +1,25 @@
+body
+{
+    background-image: url('bg.png');
+}
+
+.tint
+{
+    position: relative;
+    left: 650px;
+    bottom: 10px;
+}
+
+.cadb
+{
+    position: relative;
+    left: 650px;
+    bottom: 10px;
+}
+
+.glas
+{
+    position: relative;
+    left: 650px;
+    bottom: 10px;
+}

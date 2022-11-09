@@ -1,0 +1,39 @@
+body
+{
+    background-image: url('bg.png');
+}
+
+
+.card-text{
+    position: relative;
+    left: 0.3em;
+}
+
+.car2{
+    position: relative;
+    bottom: 1em;
+}
+
+.job1{
+    position: relative;
+    left: 40em;
+}
+.job2{
+    position: relative;
+    left: 59em;
+    bottom: 13em;
+}
+
+.car3{
+    position: relative;
+    bottom: 10em; 
+}
+
+.minor{
+    text-align: center;
+}
+
+.body-main{
+    position: relative;
+    height: 550px;
+}
